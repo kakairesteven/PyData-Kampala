@@ -1,5 +1,5 @@
 # PyData-Kampala
-PyData Kampala is an open and welcoming community of users and developers of data, science and engineering tools.
+PyData Kampala is an open and welcoming community of users and developers of open source data, science and engineering tools.
 PyData Kampala is a part of PyData Global, which comprises of an ever growing number of communities world wide.
 
 PyData seeks to grow a robust community of users and developers of open source Data tools in Uganda.
