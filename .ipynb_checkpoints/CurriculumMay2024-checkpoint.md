@@ -1,4 +1,4 @@
-<h2>Module 1: Introduction to Pandas
+<h2>Module 1: Introduction to Pandas</h2>
 <ul>
 <li>
     Getting started with Pandas
@@ -24,7 +24,16 @@
     Data Aggregation and Group operations
 </li>
 
-<<li>
+<li>
     Time Series
+</li>
+
+<li>
+    Introduction to Modelling Libraries in Python
+</li>
+
+<li>
+ Module 1: Final Exercise
+    
 </li>
 <ul>

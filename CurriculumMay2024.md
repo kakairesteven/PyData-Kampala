@@ -1,4 +1,4 @@
-<h2>Module 1: Introduction to Pandas
+<h2>Module 1: Introduction to Pandas</h2>
 <ul>
 <li>
     Getting started with Pandas
