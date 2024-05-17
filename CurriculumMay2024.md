@@ -29,8 +29,11 @@
 </li>
 
 <li>
-    Time Series
+    Introduction to Modelling Libraries in Python
 </li>
 
-
+<li>
+ Module 1: Final Exercise
+    
+</li>
 <ul>
