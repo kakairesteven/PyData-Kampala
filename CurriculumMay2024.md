@@ -3,7 +3,7 @@ This module shall introduce the Pandas fundamentals and has the following object
 <li>Help participants have a fundamental knowledge of structured data.</li>
 <li>Interest participants in learning Pandas fundamentals</li>
 <li>Introduce Data cleansing and wrangling</li>
-<li>Introduce Python Modelling Librariess</li>
+<li>Introduce Python Modelling Libraries</li>
 
 ### Structured Data
 ### Getting started with Pandas
