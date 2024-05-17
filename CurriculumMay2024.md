@@ -1,4 +1,4 @@
-# Module 1: Introduction to Pandas
+# Module 1: Introduction to Structured Data and Pandas
 This module shall introduce the Pandas fundamentals and has the following objectives;
 <li>Help participants have a fundamental knowledge of structured data.</li>
 <li>Interest participants in learning Pandas fundamentals</li>
